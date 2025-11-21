@@ -1,0 +1,7 @@
+{
+  "name": "Retro Snap",
+  "description": "A realistic Polaroid-style camera experience on the web.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
